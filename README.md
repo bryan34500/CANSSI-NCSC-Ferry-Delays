@@ -5,7 +5,7 @@
 
 This Kaggle challenge is about predicting ferry delays in BC Ferry sailings around Vancouver harbours.
 
-This repo refers to the solution I provided. Please follow this link for further information on the challenge and the data.
+This repo refers to the solution I provided. Please follow this link for further information on the challenge and the data (https://www.kaggle.com/c/canssi-ncsc-ferry-delays/overview)
 
 # Result 
 
