@@ -9,4 +9,4 @@ This repo refers to the solution I provided. Please follow this link for further
 
 # Result 
 
-In this Kaggle challenge I managed to finish at position 15. However, looking back on my solution, with more time I would have been able to improve my results by doing more in depth feature engineering.
+In this Kaggle challenge **I managed to finish at position 15**. However, looking back on my solution, with more time I would have been able to improve my results by doing more in depth feature engineering.
