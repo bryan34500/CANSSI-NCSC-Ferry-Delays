@@ -1,6 +1,7 @@
-[BC ferries](https://user-images.githubusercontent.com/29388984/109979058-78fdbe80-7ccc-11eb-9277-939e6ccfbefc.PNG)
+![BC ferries](https://user-images.githubusercontent.com/29388984/109979661-207af100-7ccd-11eb-9d40-f276066c701b.PNG)
 
-# CANSSI-NCSC-Ferry-Delays  -- Kaggle Competition!
+
+# CANSSI-NCSC-Ferry-Delays  -- Kaggle Competition
 
 This Kaggle challenge is about predicting ferry delays in BC Ferry sailings around Vancouver harbours.
 
